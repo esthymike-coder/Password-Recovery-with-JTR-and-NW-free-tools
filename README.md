@@ -1,3 +1,12 @@
+<!-- HEADER BADGES -->
+![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-NETWORKWALKS-0066CC?style=for-the-badge)
+![Week 8 Batch](https://img.shields.io/badge/WEEK%208-B082-702963?style=for-the-badge)
+![Authorized](https://img.shields.io/badge/AUTHORIZED-YES-00C853?style=for-the-badge)
+![Author](https://img.shields.io/badge/AUTHOR-Amogbon%20Abimbola%20Esther-6A1B9A?style=for-the-badge)
+![Project](https://img.shields.io/badge/PROJECT-Password%20Cracking%20and%20Security%20Assessment%20Lab-1565C0?style=for-the-badge)
+
+
+
 # Password-Cracking-and-Security-Assessment-Lab
 
 🔐 Password Cracking and Security Assessment Lab
@@ -333,6 +342,35 @@ Recommended evidence sequence:
 8. Recovered password/result
 9. Successfully opened PDF
 
+    ### John the Ripper Installation
+
+![John Installation Screenshot](John-installation.png)
+
+### John the Ripper Configuration
+
+![John Configuration Screenshot](John-configuration.png)
+
+### Johnny Interface
+
+![Johnny Interface Screenshot](Johnny-interface.png)
+
+### Hash File
+
+![Hash File Screenshot](hash-file.png)
+
+### Hash Loaded
+
+![Hash Loaded Screenshot](hash-loaded.png)
+
+### Password Cracking Process
+
+![Password Cracking Process Screenshot](cracking-process.png.png)
+
+### Recovery Results
+
+![Recovery Result Screenshot](recovery-result.png)
+
+
 Module 2 Evidence
 
 Recommended evidence sequence:
@@ -345,7 +383,29 @@ Recommended evidence sequence:
 6. Password-recovery result
 7. Successfully opened PDF
 
-Each screenshot should have a descriptive filename and caption rather than generic names such as "Screenshot1.png".
+### Password Cracker
+
+![Password Cracker Screenshot](password-cracker.png)
+
+### Password Cracking Results
+
+![Password Cracking Results Screenshot](password-cracking.png)
+
+### Hash Calculator Results
+
+![Hash Calculator Screenshot](hash-calculator.png.png)
+
+### PDF Upload
+
+![PDF Upload Screenshot](pdf-upload.png)
+
+### PDF Hash
+
+![PDF Hash Screenshot](pdf-hash.png)
+
+### Recovery Results
+
+![Recovery Result 1 Screenshot](recovery-result%201.png)
 
 ---
 
@@ -509,41 +569,6 @@ Future versions of this project could expand the laboratory by examining:
 
 These areas would provide additional opportunities to study how organizations can defend against password-based attacks.
 
----
-
-📁 Repository Structure
-
-password-cracking-security-lab/
-│
-├── README.md
-│
-├── Module-1-John-the-Ripper/
-│ ├── README.md
-│ └── evidence/
-│ ├── 01-john-installation.png
-│ ├── 02-johnny-interface.png
-│ ├── 03-john-configuration.png
-│ ├── 04-pdf-hash.png
-│ ├── 05-hash-file.png
-│ ├── 06-hash-loaded.png
-│ ├── 07-password-cracking.png
-│ ├── 08-recovery-result.png
-│ └── 09-pdf-verification.png
-│
-├── Module-2-Networkwalks/
-│ ├── README.md
-│ └── evidence/
-│ ├── 01-hash-calculator.png
-│ ├── 02-pdf-upload.png
-│ ├── 03-extracted-hash.png
-│ ├── 04-password-cracker.png
-│ ├── 05-cracking-process.png
-│ ├── 06-recovery-result.png
-│ └── 07-pdf-verification.png
-│
-└── documentation/
-    ├── Project-Module-1.pdf
-    └── Project-Module-2.pdf
 
 ---
 
