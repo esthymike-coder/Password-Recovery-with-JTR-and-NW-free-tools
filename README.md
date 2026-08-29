@@ -1,6 +1,6 @@
 <!-- HEADER BADGES -->
 ![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-NETWORKWALKS-0066CC?style=for-the-badge)
-![Week 8 Batch](https://img.shields.io/badge/WEEK%208-B082-702963?style=for-the-badge)
+![Week 8 Batch](https://img.shields.io/badge/WEEK%203-B082-702963?style=for-the-badge)
 ![Authorized](https://img.shields.io/badge/AUTHORIZED-YES-00C853?style=for-the-badge)
 ![Author](https://img.shields.io/badge/AUTHOR-Amogbon%20Abimbola%20Esther-6A1B9A?style=for-the-badge)
 ![Project](https://img.shields.io/badge/PROJECT-Password%20Recovery%20with%20JTR%20and%20NW%20free%20tools%20-1565C0?style=for-the-badge)
